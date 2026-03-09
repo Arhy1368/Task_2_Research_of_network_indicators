@@ -70,7 +70,7 @@ nmap -sV 192.168.1.1 -p-
 -p- — сканирование всех 65535 TCP-портов
 
 Время выполнения: 72 секунды
-https://screenshots/nmap_scan_process.png
+![HTTP фильтр в Wireshark](screenshots/nmap_scan_process.png)
 Результаты сканирования
 Общая информация об устройстве
 Параметр	Значение

@@ -71,7 +71,7 @@ nmap -sV 192.168.1.1 -p-
 
 Время выполнения: 72 секунды
 
-![Скриншот](screenshots/nmap_scan_process.png)
+![Процесс сканирования Nmap](https://raw.githubusercontent.com/Arhy1368/Task_2_Research_of_network_indicators/main/screenshots/nmap_scan_process.png)
 
 Результаты сканирования
 Общая информация об устройстве
